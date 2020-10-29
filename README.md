@@ -1,4 +1,4 @@
-# rcc-pm-simulacion-client-java
+# rcc-pm-simulacion-client-java [![GitHub Packages](https://img.shields.io/badge/Maven&nbsp;package-Last&nbsp;version-lemon)](https://github.com/orgs/APIHub-CdC/packages?repo_name=rcc-pm-simulacion-client-java) 
 
 Esta API simula el Reporte de Crédito Consolidado de Persona Moral.
 
